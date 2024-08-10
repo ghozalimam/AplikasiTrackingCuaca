@@ -1,6 +1,9 @@
 # myapp
 
-A new Flutter project.
+Aplikasi Tracking Cuaca
+![Screenshot 2024-08-10 215524](https://github.com/user-attachments/assets/80457dba-4fa4-4b3b-a2e3-e8c63152f4ac)
+
+![Screenshot 2024-08-10 215540](https://github.com/user-attachments/assets/b31eff49-02bb-4790-9c9a-1e0953fea555)
 
 ## Getting Started
 
